@@ -14,4 +14,4 @@ We determined the number of students in each coding school over the years to und
 3\. Campus availability and variety of courses:\
 We compared the geographical reach of each coding school and analyzed the diversity of courses offered to gain insights into their market presence and competitiveness.
 
-By conducting this analytics consulting project, Ironhack gained valuable insights into the performance of their competitors. These insights will aid Ironhack in making informed decisions regarding their curriculum, campus expansion, and market positioning.
+By conducting this analytics consulting project, Ironhack gained valuable insights into the performance of their competitors. These insights will aid Ironhack in making informed decisions regarding their curriculum, campus expansion, and market positioning. 
